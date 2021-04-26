@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/7_Functions/blob/main/lab_7.svg)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_7.svg?raw=true)
 
 # Практическое задание на тему Функции
 
